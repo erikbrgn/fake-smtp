@@ -50,18 +50,15 @@ This is just a simple and fake SMTP-server for testing purposes.
 
 ## :sparkles: Features
 
-:heavy_check_mark: Fake SMTP-server;\
-:heavy_check_mark: Mail tester ;\
+:heavy_check_mark: Fake SMTP-server
+:heavy_check_mark: Mail tester
 
 ## :rocket: Technologies
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Nodemailer](https://nodemailer.com/about/)
 
 ## :white_check_mark: Requirements
 
